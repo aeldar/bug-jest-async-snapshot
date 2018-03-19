@@ -20,3 +20,7 @@ or
 ```
 npm t
 ```
+
+Links
+-----
+See https://github.com/facebook/jest/issues/5831
