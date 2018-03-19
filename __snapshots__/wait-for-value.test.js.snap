@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Jest async experiment First 1`] = `"one"`;
+exports[`Jest async experiment Long timeout, more than default 5000 1`] = `"one"`;
 
-exports[`Jest async experiment Second 1`] = `"two"`;
+exports[`Jest async experiment Short timeout 1`] = `"two"`;
 
-exports[`Jest async experiment Third 1`] = `"three"`;
+exports[`Jest async experiment Short timeout one more time 1`] = `"three"`;
